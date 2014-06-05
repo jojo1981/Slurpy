@@ -1,10 +1,10 @@
 {
-    "name": "shuble/slurpy",
+    "name": "jojo1981/slurpy",
     "type": "library",
     "description": "php wrapper for pdftk commandline tool, and pdf form filler",
     "keywords": ["pdftk", "pdf", "form", "filler"],
     "require": {
-        "php": ">=5.3.0",
+        "php":             ">=5.3.0",
         "symfony/process": "*"
     },
     "license": "MIT",
@@ -12,6 +12,10 @@
         {
             "name": "dorian ALKOUM",
             "email": "baikunz@gmail.com"
+        },
+        {
+            "name": "Joost Nijhuis",
+            "email": "jnijhuis81@gmail.com"
         }
     ],
     "autoload": {
