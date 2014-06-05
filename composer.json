@@ -7,6 +7,9 @@
         "php":             ">=5.3.0",
         "symfony/process": "*"
     },
+    "replace": {
+        "shuble/slurpy": "1.*"
+    },
     "license": "MIT",
     "authors": [
         {
